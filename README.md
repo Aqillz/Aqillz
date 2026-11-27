@@ -10,7 +10,7 @@ I’m a Computer Science (Computational Science) graduate from Universiti Malays
 | --- | --- |
 | [Ames Housing Lab](https://aqillz.github.io/ames-housing-lab/) | Estimate historical house prices with a browser-based ridge model and compare results from a separate Kaggle regression experiment. |
 | [AgriVision](https://aqillz.github.io/agrivision-crop-demo/) | Try a MobileNetV2 crop leaf classifier in the browser and explore separate Vision Transformer research results. |
-| [CardioLens](https://aqillz.github.io/cardiolens-heart-disease/) | Explore my final-year heart disease classification study, including SHAP explanations and fictional test cases. Logistic regression achieved 83.61% test accuracy and 90.91% positive-class recall on the held-out split. |
+| [CardioLens](https://aqillz.github.io/cardiolens-heart-disease/) | Explore my final-year heart disease classification study, including SHAP explanations and fictional test cases. Logistic regression achieved 85.25% test accuracy and 90.91% positive-class recall on the held-out split. |
 | [Meeting Intelligence](https://aqillz.github.io/meeting-intelligence-demo/) | Turn a transcript into draft meeting minutes with decisions, action items, and open questions in your browser. |
 | [PitchSide Intelligence](https://aqillz.github.io/pitchside-intelligence/) | Replay a simulated football match and explore expected goals (xG), expected threat (xT), and a tactical report. |
 | [Alexa+ Enterprise Hub](https://aqillz.github.io/alexa-enterprise-hub/) | Try an inventory dashboard with stockout and expiry alerts and simulated commands. The local app uses FastAPI, SQLite, and MCP. |
