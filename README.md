@@ -18,7 +18,7 @@ I’m a Computer Science (Computational Science) graduate from Universiti Malays
 
 ## Experience
 
-- **HR Protégé · Maltimur Aktif Unggul JV Sdn. Bhd.** | Oct 2026–Present\
+- **Human Resources · Maltimur Aktif Unggul JV Sdn. Bhd.** | Oct 2026–Present\
   Placed at UNIMAS. Maintain HR website pages and organisation charts and assist with vacancy publication and recruitment administration.
 - **Technical Executive · VAR LIVE Malaysia** | Sep 2026\
   Supported server and network hardware, OptiTrack motion-capture systems, and VR workstations. Documented inspections and troubleshooting.
